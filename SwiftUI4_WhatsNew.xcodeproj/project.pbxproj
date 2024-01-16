@@ -21,6 +21,7 @@
 		A9421FF22B56146900CFE006 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9421FF52B56146900CFE006 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A9421FFD2B56149800CFE006 /* Search01.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Search01.swift; sourceTree = "<group>"; };
+		A94220012B56173100CFE006 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		A9421FE02B56146800CFE006 = {
 			isa = PBXGroup;
 			children = (
+				A94220012B56173100CFE006 /* README.md */,
 				A9421FEB2B56146800CFE006 /* SwiftUI4_WhatsNew */,
 				A9421FEA2B56146800CFE006 /* Products */,
 			);

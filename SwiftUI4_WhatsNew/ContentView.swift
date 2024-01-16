@@ -5,7 +5,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        CicleView()
+        TapLocation01()
 //        GridView01()
 //        GridView02()
 //        ShareSheet01()
@@ -426,7 +426,7 @@ struct GridView02: View {
 }
 
 // Tap Gesture w/ location
-struct CicleView: View {
+struct TapLocation01: View {
     var body: some View {
         Circle()
             .fill(.red)
